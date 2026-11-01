@@ -28,7 +28,7 @@ Created by **SwiftEaglePro**
 
 - macOS
 - Python 3
-- A webcam
+- A connected or built-in camera
 - Terminal camera permissions
 
 ## Installation
