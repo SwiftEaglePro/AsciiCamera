@@ -12,9 +12,9 @@ import termios
 # ==========================================
 # Version: 1.1.0
 #
-# Created by: swifteagle
-# Developer: swifteagle
-# Copyright (c) 2026 swifteagle
+# Created by: SwiftEaglePro
+# Developer: SwiftEaglePro
+# Copyright (c) 2026 SwiftEaglePro
 #
 # Python 3.15
 # ==========================================
@@ -105,10 +105,10 @@ def main():
     print("=" * 40)
     print("              ASCII CAMERA")
     print("=" * 40)
-    print("       Created by: swifteagle")
-    print("          Developer: swifteagle")
+    print("       Created by: SwiftEaglePro")
+    print("          Developer: SwiftEaglePro")
     print("              Version 1.1.0")
-    print("       Copyright (c) 2026")
+    print("       Copyright (c) 2026 SwiftEaglePro")
     print("=" * 40)
 
     # Ask user for style
@@ -223,7 +223,7 @@ def main():
 
         print("\033[?25h\033[0m")
         print("\nCamera stopped.")
-        print("ASCII CAMERA - Created by swifteagle")
+        print("ASCII CAMERA - Created by SwiftEaglePro")
 
 
 if __name__ == "__main__":
